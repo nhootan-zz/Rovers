@@ -1,10 +1,3 @@
-/*
- * logger.h
- *
- *  Created on: Oct 28, 2011
- *      Author: hootan
- */
-
 #ifndef LOGGER_H_
 #define LOGGER_H_
 #include <string>

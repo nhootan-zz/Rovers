@@ -1,4 +1,3 @@
-
 #include "rover_generator.h"
 #include "solver.h"
 #include "logger.h"

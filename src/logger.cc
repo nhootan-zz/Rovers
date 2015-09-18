@@ -1,9 +1,3 @@
-/*
- * logger.cc
- *
- *  Created on: Oct 28, 2011
- *      Author: hootan
- */
 #include "logger.h"
 #include <string>
 #include <iostream>
